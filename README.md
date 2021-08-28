@@ -17,9 +17,9 @@ In addition, we also create a web app using Flask framework to serve the trained
 
 Before using this source code, you need to install tools like numpy, tensorflow, keras, pillow and flask.
 
-Use the this command to re-train the model:
+Use show re-train the model:
 
-    python mnist_cnn.py
+    mnist_with_neural_network.ipynb
 
 After finishing the training process, put the model (***mnist_cnn.h5***) in ***static*** folder of Flask app and run the following commands to start the app:
 
